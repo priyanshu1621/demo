@@ -26,7 +26,7 @@ const Navbar = () => {
               window.scrollTo(0, 0);
             }}
           >
-            <img src={"/src/assets/PriyanshuGaur-Back.png"}  alt='logo'
+            <img src={logo}  alt='logo'
               className='w-16 h-26 object-contain px-0' />
             <p className='text-white text-[18px]
             font-bold cursor-pointer flex'>
